@@ -39,7 +39,7 @@ class UserController extends Controller
 
     public function create(){
         $kelasModel = new Kelas();
-        $kelas = $kelasModel->getKela();
+        $kelas = $kelasModel->getKelas();
         $data =[
             'title' => 'Create User',
             'kelas' => $kelas,

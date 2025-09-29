@@ -6,7 +6,7 @@
   <title>Document</title>
 </head>
 <body>
-  <h1>First Blade Template</h1>
+  
   @yield('content')
 </body>
 </html>

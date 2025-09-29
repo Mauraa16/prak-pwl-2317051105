@@ -1,5 +1,7 @@
-@extends('layout.app')
+@extends('layouts.app')
+
 @section('content')
+    
 <div>
   <h1>Untuk Pengguna baru</h1>
 
@@ -21,5 +23,7 @@
 
     <button type="submit">Submit</button>
 </form>
+
 </div>
+
 @endsection
