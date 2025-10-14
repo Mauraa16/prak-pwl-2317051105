@@ -58,8 +58,8 @@
         </div>
 
         <div class="form-group">
-            <label for="npm">NPM</label> 
-            <input type="text" name="npm" id="npm" required>
+            <label for="nim">NIM</label> 
+            <input type="text" name="nim" id="nim" required>
         </div>
 
         <div class="form-group">

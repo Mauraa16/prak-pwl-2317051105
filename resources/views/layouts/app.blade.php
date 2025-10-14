@@ -15,5 +15,7 @@
     </main>
 
     @include('components.footer')
+
+    @include('components.toast')
 </body>
 </html>
